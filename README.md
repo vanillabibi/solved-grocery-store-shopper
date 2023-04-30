@@ -1,0 +1,6 @@
+Download Link: https://assignmentchef.com/product/solved-grocery-store-shopper
+<br>
+5/5 - (2 votes)
+
+Design a class named Shopper to represent a grocery store shopper. The class contains:• A private int data field named items that specifies the number of items in the shopper’s cart (default is 0).• A private boolean data field named active that specifies whether the shopper is currently shopping (the default is false).• A private double data field named budget that specifies the amount the shopper can spend (the default is 100.00). This value is rounded to 2 decimal points• A string data field named location that specifies which section of the store the shopper is in (the default is “entrance”).• A no-arg constructor that creates a default shopper.• A method named details() that outputs a description for the shopper. If the shopper is active, the method prints the items in cart, active status, budget, and location of the shopper. If the shopper is not active, the method prints the shopper’s budget and the text “shopper is not in store.” Draw the UML diagram for the class. Write a program that creates three Shopper objects. For the first Shopper assign it the following values:• items – use default• active – use default• budget – use default• location – use default
+
